@@ -1,0 +1,23 @@
+{
+  "name": "magic_eightball",
+  "version": "1.0.0",
+  "description": "Magic eightball programme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fliss-Greenback/Magic_eightball.git"
+  },
+  "keywords": [
+    "spooky",
+    "shit"
+  ],
+  "author": "Fliss Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fliss-Greenback/Magic_eightball/issues"
+  },
+  "homepage": "https://github.com/Fliss-Greenback/Magic_eightball#readme"
+}
